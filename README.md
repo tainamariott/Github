@@ -6,4 +6,4 @@
 #### git status -> verifica o status 
 #### git pull -> atualiza repositorio local 
 #### git pull (siginificado) -> significa basicamente dois comando git fetch e git merge. 
-#### 
+#### git log -> acessa o historico dos commits
