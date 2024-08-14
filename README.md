@@ -7,3 +7,9 @@
 #### git pull -> atualiza repositorio local 
 #### git pull (siginificado) -> significa basicamente dois comando git fetch e git merge. 
 #### git log -> acessa o historico dos commits
+#### git checkout -> cria uma nova branch com as informações do commit anterior 
+#### git checkout main -> volta pra branch principal, considerando que vc esteja em outr branch 
+#### git tag -a <nome da tag> -m "<mensagem>" -> cria uma tag para marcar o p´roximo commit 
+#### git
+
+
