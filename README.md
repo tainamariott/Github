@@ -17,4 +17,4 @@
 
 
 
-#### como fazer o pull request: Para fazer um pull request no GitHub: faça um fork do repositório e clone-o. Crie uma nova branch para suas alterações. Edite o código, adicione as mudanças e faça o commit. Envie a branch para o repositório no GitHub e crie o pull request para que suas alterações possam ser revisadas e mescladas.
+#### como fazer o pull request -> Para fazer um pull request no GitHub: faça um fork do repositório e clone-o. Crie uma nova branch para suas alterações. Edite o código, adicione as mudanças e faça o commit. Envie a branch para o repositório no GitHub e crie o pull request para que suas alterações possam ser revisadas e mescladas.
