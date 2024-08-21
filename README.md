@@ -14,6 +14,7 @@
 #### git checkout nome_da_branch -> muda de branch 
 #### git branch -> vê as branch do projeto
 #### git checkout -d <nome da branch> -> excluir a branch 
+#### git merge <branch> ->  junta as branch 
 
 
 
