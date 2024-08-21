@@ -9,7 +9,12 @@
 #### git log -> acessa o historico dos commits
 #### git checkout -> cria uma nova branch com as informações do commit anterior 
 #### git checkout main -> volta pra branch principal, considerando que vc esteja em outr branch 
-#### git tag -a <nome da tag> -m "<mensagem>" -> cria uma tag para marcar o p´roximo commit 
-#### git
+#### git tag -a <nome da tag> -m "<mensagem>" -> cria uma tag para marcar o próximo commit 
+#### git checkout -b nome_da_branch -> para criar uma branch 
+#### git checkout nome_da_branch -> muda de branch 
+#### git branch -> vê as branch do projeto
+#### git checkout -d <nome da branch> -> excluir a branch 
 
 
+
+#### como fazer o pull request: Para fazer um pull request no GitHub: faça um fork do repositório e clone-o. Crie uma nova branch para suas alterações. Edite o código, adicione as mudanças e faça o commit. Envie a branch para o repositório no GitHub e crie o pull request para que suas alterações possam ser revisadas e mescladas.
