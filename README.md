@@ -15,6 +15,7 @@
 #### git branch -> vê as branch do projeto
 #### git checkout -d <nome da branch> -> excluir a branch 
 #### git merge <branch> ->  junta as branch 
+#### git cherry-pick -> trás só a alteração do commit selecioando para a main
 
 
 
